@@ -88,6 +88,21 @@ Calagem is an agricultural mobile application designed to calculate the necessar
 
 ---
 
+## 🛠️ **Suggested Improvements**
+1. **Update UIWebView:**  
+   - Replace `UIWebView` with `WKWebView` for better performance and security.
+
+2. **Error Handling:**  
+   - Improve error messages for clarity.
+
+3. **Input Validation:**  
+   - Validate mandatory fields before saving data.
+
+4. **Memory Management:**  
+   - Ensure proper resource deallocation.
+
+---
+
 ## 📚 **Technologies Used**
 - Objective-C
 - Core Data
@@ -97,7 +112,7 @@ Calagem is an agricultural mobile application designed to calculate the necessar
 ## 💻 **Setup and Installation**
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/fabersp/calagem.git
+   git clone https://github.com/your-repo/calagem.git
    ```
 2. Open the project in **Xcode**.
 3. Build and run the application on an iOS Simulator or a physical device.
@@ -111,10 +126,14 @@ Calagem is an agricultural mobile application designed to calculate the necessar
 ## 🤝 **Contributing**
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
+## 📧 **Contact**
+For any inquiries, reach out via email: **fazenda@fazenda.com.br**
+
+---
+
 ## 📝 **License**
 This project is licensed under the **MIT License**.
 
 ---
 
 © 2024 Pro Master Solution. All rights reserved.
-
