@@ -108,13 +108,14 @@ Calagem is an agricultural mobile application designed to calculate the necessar
 3. Generate soil liming reports.
 4. Review the results and plan corrections.
 
-## 🤝 **Contributing**
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+## 🧑‍💻 **Developers**
+- **Lead Developer:** Fabricio Aguiar de Padua
+- **LinkedIn:** www.linkedin.com/fabricio-padua  
+- **contact:** fabricio_0505_@hotmail.com
+
+---
 
 ## 📝 **License**
 This project is licensed under the **MIT License**.
 
----
-
-© 2024 Pro Master Solution. All rights reserved.
 
